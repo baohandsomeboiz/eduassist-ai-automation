@@ -23,3 +23,5 @@ Hệ thống End-to-End dự báo sớm nguy cơ rớt môn của sinh viên d�
 1. **Chạy Backend API:**
    ```bash
    uvicorn api:app --reload
+2.**Chạy giao diện Streamlit:**
+streamlit run app.py
