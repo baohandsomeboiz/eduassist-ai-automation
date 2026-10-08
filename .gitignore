@@ -1,0 +1,19 @@
+# Môi trường ảo Python
+__pycache__/
+.venv/
+venv/
+ENV/
+env/
+
+# Cấu hình IDE
+.vscode/
+.idea/
+.DS_Store
+
+# File bảo mật / Biến môi trường
+.env
+
+# Các file dữ liệu lớn và file huấn luyện nặng (tránh quá giới hạn GitHub)
+*.csv
+*.xlsx
+*.pkl
